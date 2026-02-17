@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
