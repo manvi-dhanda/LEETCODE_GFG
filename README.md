@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
