@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
+| [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1009-complement-of-base-10-integer) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
