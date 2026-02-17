@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
