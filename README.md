@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
