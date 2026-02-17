@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
 ## Interactive
 |  |
