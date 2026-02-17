@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0328-odd-even-linked-list) |
 ## Design
 |  |
 | ------- |
