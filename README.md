@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0125-valid-palindrome) |
