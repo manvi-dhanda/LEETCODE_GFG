@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
