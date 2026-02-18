@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0735-asteroid-collision) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
+| [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
