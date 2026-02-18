@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
@@ -161,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
