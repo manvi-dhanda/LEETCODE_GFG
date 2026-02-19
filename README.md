@@ -69,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
