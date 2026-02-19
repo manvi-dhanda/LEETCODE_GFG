@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
