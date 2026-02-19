@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
