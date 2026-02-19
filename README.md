@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
+| [0485-max-consecutive-ones](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
