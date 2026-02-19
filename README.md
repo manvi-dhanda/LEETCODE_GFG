@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0704-binary-search) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1009-complement-of-base-10-integer) |
 ## Data Stream
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
