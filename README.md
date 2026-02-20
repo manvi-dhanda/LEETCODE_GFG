@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0404-sum-of-left-leaves) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0404-sum-of-left-leaves) |
