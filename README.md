@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
