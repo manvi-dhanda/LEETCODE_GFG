@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0125-valid-palindrome) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
