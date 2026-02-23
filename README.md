@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## String Matching
 |  |
