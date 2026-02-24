@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0387-first-unique-character-in-a-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
