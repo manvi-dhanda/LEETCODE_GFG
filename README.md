@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2594-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
 ## Design
 |  |
 | ------- |
@@ -173,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
+| [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0735-asteroid-collision) |
+| [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
