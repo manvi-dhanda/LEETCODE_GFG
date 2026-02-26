@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
+| [0436-find-right-interval](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
+| [0436-find-right-interval](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
