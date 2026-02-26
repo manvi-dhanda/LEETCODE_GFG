@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2594-minimum-time-to-repair-cars](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2594-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
+| [2594-minimum-time-to-repair-cars](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2594-minimum-time-to-repair-cars) |
 ## Divide and Conquer
 |  |
 | ------- |
