@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0704-binary-search) |
