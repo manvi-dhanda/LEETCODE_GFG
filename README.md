@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0930-binary-subarrays-with-sum) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Queue
 |  |
 | ------- |
