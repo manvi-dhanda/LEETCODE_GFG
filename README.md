@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1669-merge-in-between-linked-lists) |
 | [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
 ## Design
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0441-arranging-coins) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
