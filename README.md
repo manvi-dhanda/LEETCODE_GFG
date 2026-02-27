@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0876-middle-of-the-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1669-merge-in-between-linked-lists) |
 | [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
 ## Design
 |  |
