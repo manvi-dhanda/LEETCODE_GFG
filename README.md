@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0215-kth-largest-element-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
