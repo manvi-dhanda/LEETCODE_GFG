@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0162-find-peak-element) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0918-maximum-sum-circular-subarray) |
