@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0930-binary-subarrays-with-sum) |
 ## Linked List
 |  |
