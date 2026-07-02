@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1009-complement-of-base-10-integer) |
 ## Data Stream
 |  |
