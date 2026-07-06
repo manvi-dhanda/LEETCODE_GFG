@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0349-intersection-of-two-arrays) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0441-arranging-coins) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0746-min-cost-climbing-stairs) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
