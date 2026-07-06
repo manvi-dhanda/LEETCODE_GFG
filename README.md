@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0316-remove-duplicate-letters) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0054-spiral-matrix) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0070-climbing-stairs) |
