@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0397-integer-replacement) |
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0680-valid-palindrome-ii) |
 ## Monotonic Stack
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0397-integer-replacement) |
 | [0746-min-cost-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0397-integer-replacement) |
 | [1009-complement-of-base-10-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1009-complement-of-base-10-integer) |
 ## Data Stream
 |  |
@@ -476,4 +479,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
