@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0509-fibonacci-number) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0397-integer-replacement) |
 | [1009-complement-of-base-10-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1009-complement-of-base-10-integer) |
 ## Data Stream
