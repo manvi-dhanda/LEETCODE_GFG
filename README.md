@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0441-arranging-coins) |
 | [0788-rotated-digits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0788-rotated-digits) |
