@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0397-integer-replacement) |
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0680-valid-palindrome-ii) |
+| [1323-maximum-69-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1323-maximum-69-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0788-rotated-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
