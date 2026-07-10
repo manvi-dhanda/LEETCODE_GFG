@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1323-maximum-69-number) |
+| [2706-buy-two-chocolates](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2706-buy-two-chocolates) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2594-minimum-time-to-repair-cars) |
+| [2706-buy-two-chocolates](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
+| [2706-buy-two-chocolates](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2706-buy-two-chocolates) |
 ## Interactive
 |  |
 | ------- |
