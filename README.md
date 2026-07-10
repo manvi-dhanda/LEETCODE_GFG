@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0397-integer-replacement) |
+| [0605-can-place-flowers](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1323-maximum-69-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
