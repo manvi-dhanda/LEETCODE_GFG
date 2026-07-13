@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0994-rotting-oranges) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0930-binary-subarrays-with-sum) |
 ## Linked List
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0930-binary-subarrays-with-sum) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## String Matching
