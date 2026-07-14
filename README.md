@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0316-remove-duplicate-letters) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0118-pascals-triangle) |
