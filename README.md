@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1669-merge-in-between-linked-lists) |
 | [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
