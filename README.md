@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0965-univalued-binary-tree) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
