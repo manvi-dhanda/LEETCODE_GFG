@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0617-merge-two-binary-trees) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
