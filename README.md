@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0994-rotting-oranges) |
 ## Counting
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Queue
