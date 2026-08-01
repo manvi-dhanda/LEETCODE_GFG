@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1652-defuse-the-bomb) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0994-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1572-matrix-diagonal-sum) |
 | [2326-spiral-matrix-iv](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
