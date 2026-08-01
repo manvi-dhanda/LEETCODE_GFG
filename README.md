@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0904-fruit-into-baskets) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1572-matrix-diagonal-sum) |
