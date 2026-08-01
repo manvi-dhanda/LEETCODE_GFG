@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1323-maximum-69-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/1323-maximum-69-number) |
 | [2706-buy-two-chocolates](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/2706-buy-two-chocolates) |
 ## Monotonic Stack
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0746-min-cost-climbing-stairs) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/manvi-dhanda/LEETCODE_GFG/tree/master/0918-maximum-sum-circular-subarray) |
